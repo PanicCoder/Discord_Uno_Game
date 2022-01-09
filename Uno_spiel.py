@@ -300,4 +300,5 @@ async def start_game():
     else:
         print("es müssen min. 2 oder max 4 spieler sein!")
 if __name__=="__main__":
-    client.run("ODM4NzM5NTQwMDU4NzAxOTI1.YI_fEQ.ZF4BC2w6-nRbWUfygLDcIoT732g")
+    client.run("TOKEN")
+    
